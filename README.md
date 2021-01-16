@@ -1,3 +1,7 @@
 # Leband-Chair-Back
 Extending Leband Chair Back height
-![GitHub Logo](/images/Xiaomi_Leband_Extender_v1.png)
+
+Спинка для стула Xiaomi Leband
+![Thumbnail](/images/Xiaomi_Leband_Thumbnail_v1.png)
+Чтобы поднять спинку выше распечатайте эту деталь 2 раза на 3Д принтере и оденьте на спинку Xiaomi Leband
+![Height Extender](/images/Xiaomi_Leband_Extender_v1.png)
